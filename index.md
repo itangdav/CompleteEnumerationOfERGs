@@ -6,7 +6,7 @@
 
 # Non-Triangle-Free Edge Regular Graphs
 
-You can download all the files (here)[https://github.com/itangdav/DatabaseOfERGs/tree/main/FinalGraphs].
+You can download all the files [here](https://github.com/itangdav/DatabaseOfERGs/tree/main/FinalGraphs).
 
 | N | K | $$\lambda$$ | Number Of Graphs | Download Link |
 |:----:|:----:|:----:|:----:|:----:|
