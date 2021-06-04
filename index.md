@@ -9,7 +9,7 @@
 You can download all the files [here](https://github.com/itangdav/DatabaseOfERGs/tree/main/FinalGraphs).
 
 | N | K | $$\lambda$$ | Number Of Graphs | Download Link | Notes |
-|:----:|:----:|:----:|:----:|:----:|
+|:----:|:----:|:----:|:----:|:----:|:----:|
 |3|2|1|1| <a href="FinalGraphs/EdgeReg(3,2,1)NoIsoGraphs.txt" download> Download </a>|K3|
 |4|3|2|1| <a href="FinalGraphs/EdgeReg(4,3,2)NoIsoGraphs.txt" download> Download </a>|K4|
 |5|4|3|1| <a href="FinalGraphs/EdgeReg(5,4,3)NoIsoGraphs.txt" download> Download </a>|K5|
