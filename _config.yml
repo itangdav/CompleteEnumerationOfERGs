@@ -1,3 +1,5 @@
 markdown: kramdown
 kramdown:
     math_engine: katex
+
+theme: jekyll-theme-tactile
