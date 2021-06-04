@@ -4,9 +4,9 @@
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 </head>
 
-# Table of Non-Triangle-Free Edge Regular Graphs
+# Non-Triangle-Free Edge Regular Graphs
 
 | N | K | $$\lambda$$ | Number Of Graphs | Download Link |
 |:----:|:----:|:----:|:----:|:----:|
-|3|2|1|1||
+|3|2|1|1| <button> Download </button>|
 | Paragraph   | Text        | And more      |
