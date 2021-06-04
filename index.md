@@ -8,5 +8,5 @@
 
 | N | K | $$\lambda$$ | Number Of Graphs | Download Link |
 |:----:|:----:|:----:|:----:|:----:|
-|3|2|1|1| <ba href="FinalGraphs/EdgeReg(3,2,1)NoIsoGraphs.txt" download > Download </a>|
+|3|2|1|1| <a href="FinalGraphs/EdgeReg(3,2,1)NoIsoGraphs.txt" download > Download </a>|
 | Paragraph   | Text        | And more      |
