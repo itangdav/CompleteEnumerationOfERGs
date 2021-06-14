@@ -90,5 +90,19 @@ You can download all the files [here](https://github.com/itangdav/DatabaseOfERGs
 |19|6|2|2| <a href="FinalGraphs/EdgeReg(19,6,2)NoIsoGraphs.txt" download> Download </a>||
 |19|6|3|1| <a href="FinalGraphs/EdgeReg(19,6,3)NoIsoGraphs.txt" download> Download </a>||
 |19|18|17|1| <a href="FinalGraphs/EdgeReg(19,18,17)NoIsoGraphs.txt" download> Download </a>|K19|
+|20|3|2|1| <a href="FinalGraphs/EdgeReg(20,3,2)NoIsoGraphs.txt" download> Download </a>||
+|20|4|3|1| <a href="FinalGraphs/EdgeReg(20,4,3)NoIsoGraphs.txt" download> Download </a>||
+|20|6|1|162| <a href="FinalGraphs/EdgeReg(20,6,1)NoIsoGraphs.txt" download> Download </a>||
+|20|6|2|10| <a href="FinalGraphs/EdgeReg(20,6,2)NoIsoGraphs.txt" download> Download </a>||
+|20|6|3|1| <a href="FinalGraphs/EdgeReg(20,6,3)NoIsoGraphs.txt" download> Download </a>||
+|20|8|3|1| <a href="FinalGraphs/EdgeReg(20,8,3)NoIsoGraphs.txt" download> Download </a>||
+|20|8|6|1| <a href="FinalGraphs/EdgeReg(20,8,6)NoIsoGraphs.txt" download> Download </a>||
+|20|9|4|2| <a href="FinalGraphs/EdgeReg(20,9,4)NoIsoGraphs.txt" download> Download </a>||
+|20|9|8|1| <a href="FinalGraphs/EdgeReg(20,9,8)NoIsoGraphs.txt" download> Download </a>||
+|20|12|6|2| <a href="FinalGraphs/EdgeReg(20,12,6)NoIsoGraphs.txt" download> Download </a>||
+|20|15|10|1| <a href="FinalGraphs/EdgeReg(20,15,10)NoIsoGraphs.txt" download> Download </a>||
+|20|16|12|1| <a href="FinalGraphs/EdgeReg(20,16,12)NoIsoGraphs.txt" download> Download </a>||
+|20|18|16|1| <a href="FinalGraphs/EdgeReg(20,18,16)NoIsoGraphs.txt" download> Download </a>||
+|20|19|18|1| <a href="FinalGraphs/EdgeReg(20,19,18)NoIsoGraphs.txt" download> Download </a>||
 |21|10|4|2| <a href="FinalGraphs/EdgeReg(21,10,4)NoIsoGraphs.txt" download> Download </a>||
 
