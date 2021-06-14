@@ -91,3 +91,4 @@ You can download all the files [here](https://github.com/itangdav/DatabaseOfERGs
 |19|6|3|1| <a href="FinalGraphs/EdgeReg(19,6,3)NoIsoGraphs.txt" download> Download </a>||
 |19|18|17|1| <a href="FinalGraphs/EdgeReg(19,18,17)NoIsoGraphs.txt" download> Download </a>|K19|
 |21|10|4|2| <a href="FinalGraphs/EdgeReg(21,10,4)NoIsoGraphs.txt" download> Download </a>||
+
