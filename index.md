@@ -110,7 +110,7 @@ You can download all the files [here](https://github.com/itangdav/DatabaseOfERGs
 |21|6|5|1| <a href="FinalGraphs/EdgeReg(21,6,5)NoIsoGraphs.txt" download> Download </a>|3 K7s|
 |21|8|2|8| <a href="FinalGraphs/EdgeReg(21,8,2)NoIsoGraphs.txt" download> Download </a>||
 |21|8|3|1| <a href="FinalGraphs/EdgeReg(21,8,3)NoIsoGraphs.txt" download> Download </a>||
-|21|10|3|1| <a href="FinalGraphs/EdgeReg(21,10,3)NoIsoGraphs.txt" download> Download </a>|(7.2) Kneser Graph|
+|21|10|3|1| <a href="FinalGraphs/EdgeReg(21,10,3)NoIsoGraphs.txt" download> Download </a>|(7,2) Kneser Graph|
 |21|10|4|2| <a href="FinalGraphs/EdgeReg(21,10,4)NoIsoGraphs.txt" download> Download </a>||
 |21|10|5|1| <a href="FinalGraphs/EdgeReg(21,10,5)NoIsoGraphs.txt" download> Download </a>|7-triangular graph|
 |21|12|5|1| <a href="FinalGraphs/EdgeReg(21,12,5)NoIsoGraphs.txt" download> Download </a>||
