@@ -6,7 +6,7 @@
 
 # Non-Triangle-Free Edge Regular Graphs
 
-This is a complete enumeration up to N=20 and of N=21 for $$\lambda\geq2$$.
+This is a complete enumeration up to N=21.
 
 You can download all the files [here](https://github.com/itangdav/DatabaseOfERGs/tree/main/FinalGraphs).
 
