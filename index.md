@@ -106,7 +106,7 @@ You can download all the files [here](https://github.com/itangdav/DatabaseOfERGs
 |20|16|12|1| <a href="FinalGraphs/EdgeReg(20,16,12)NoIsoGraphs.txt" download> Download </a>|Complement is 5 K4s|
 |20|18|16|1| <a href="FinalGraphs/EdgeReg(20,18,16)NoIsoGraphs.txt" download> Download </a>|Complement is 10 K2s|
 |20|19|18|1| <a href="FinalGraphs/EdgeReg(20,19,18)NoIsoGraphs.txt" download> Download </a>|K20|
-|21|2|1|1| <a href="FinalGraphs/EdgeReg(21,2,1)NoIsoGraphs.txt" download> Download </a>||
+|21|2|1|1| <a href="FinalGraphs/EdgeReg(21,2,1)NoIsoGraphs.txt" download> Download </a>|7 K3s|
 |21|4|1|112| <a href="FinalGraphs/EdgeReg(21,4,1)NoIsoGraphs.txt" download> Download </a>||
 |21|6|1|4602| <a href="FinalGraphs/EdgeReg(21,6,1)NoIsoGraphs.txt" download> Download </a>||
 |21|6|2|4| <a href="FinalGraphs/EdgeReg(21,6,2)NoIsoGraphs.txt" download> Download </a>||
