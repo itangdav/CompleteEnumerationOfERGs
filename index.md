@@ -8,7 +8,7 @@
 
 This is a complete enumeration up to N=21.
 
-You can download all the files [here](https://github.com/itangdav/DatabaseOfERGs/tree/main/FinalGraphs).
+You can download all the files [here](https://github.com/itangdav/DatabaseOfERGs/tree/main/FinalGraphs) and find the source code [here.](https://github.com/itangdav/DatabaseOfERGs/tree/main/SourceCode/EdgeRegularGraphEnumeration)
 
 | N | K | $$\lambda$$ | Number Of Graphs | Download Link | Notes |
 |:----:|:----:|:----:|:----:|:----:|:----:|
