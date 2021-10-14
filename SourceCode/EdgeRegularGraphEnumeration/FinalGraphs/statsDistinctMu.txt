@@ -1,3 +1,0 @@
-21|2|1|1| <a href="FinalGraphs/EdgeReg(21,2,1)NoIsoGraphs.txt" download> Download </a>||
-21|4|1|112| <a href="FinalGraphs/EdgeReg(21,4,1)NoIsoGraphs.txt" download> Download </a>||
-21|6|1|4602| <a href="FinalGraphs/EdgeReg(21,6,1)NoIsoGraphs.txt" download> Download </a>||
