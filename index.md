@@ -6,7 +6,7 @@
 
 # Non-Triangle-Free Edge Regular Graphs
 
-This is a complete enumeration up to N=21.
+This is a complete enumeration up to N=19, and for up to N=21, the only partial results are (20,6,1) and (21,6,1).
 
 You can download all the files [here](https://github.com/itangdav/DatabaseOfERGs/tree/main/FinalGraphs) and find the source code [here.](https://github.com/itangdav/DatabaseOfERGs/tree/main/SourceCode/EdgeRegularGraphEnumeration)
 
