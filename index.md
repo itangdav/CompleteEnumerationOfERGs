@@ -6,7 +6,7 @@
 
 # Non-Triangle-Free Edge Regular Graphs
 
-This is a complete enumeration up to N=21.
+This is a complete enumeration up to N=20, and for N=21, we have an incomplete enumeration of (21,6,1) and a complete numeration of all other parameter sets.
 
 You can download all the files [here](https://github.com/itangdav/DatabaseOfERGs/tree/main/FinalGraphs) and find the source code [here.](https://github.com/itangdav/DatabaseOfERGs/tree/main/SourceCode/EdgeRegularGraphEnumeration)
 
@@ -108,7 +108,7 @@ You can download all the files [here](https://github.com/itangdav/DatabaseOfERGs
 |20|19|18|1| <a href="FinalGraphs/EdgeReg(20,19,18)NoIsoGraphs.txt" download> Download </a>|K20|
 |21|2|1|1| <a href="FinalGraphs/EdgeReg(21,2,1)NoIsoGraphs.txt" download> Download </a>|7 K3s|
 |21|4|1|112| <a href="FinalGraphs/EdgeReg(21,4,1)NoIsoGraphs.txt" download> Download </a>||
-|21|6|1|4602| <a href="FinalGraphs/EdgeReg(21,6,1)NoIsoGraphs.txt" download> Download </a>||
+|21|6|1|>4602| (Incomplete Enumeration)||
 |21|6|2|4| <a href="FinalGraphs/EdgeReg(21,6,2)NoIsoGraphs.txt" download> Download </a>||
 |21|6|5|1| <a href="FinalGraphs/EdgeReg(21,6,5)NoIsoGraphs.txt" download> Download </a>|3 K7s|
 |21|8|2|8| <a href="FinalGraphs/EdgeReg(21,8,2)NoIsoGraphs.txt" download> Download </a>||
